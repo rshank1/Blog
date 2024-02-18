@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "Twin Cities Local | Planning and Geography",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
+    "favicon": "/images/TC Local Logo.png",
+    "logo": "/images/TC Local Logo.png",
+    "logo_white": "images/TC Local.png",
     "logo_width": "150",
     "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_text": ""
   },
   "settings": {
     "theme_switcher": false,
@@ -33,8 +33,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
-    },
+      "content": ""},
     "featured_posts": {
       "enable": false,
       "title": "Blog Categories",
