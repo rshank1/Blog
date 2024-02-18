@@ -8,16 +8,13 @@
       "name": "About",
       "url": "/about"
     },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
+  
     {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Posts",
       "url": "",
       "hasChildren": true,
       "children": [
