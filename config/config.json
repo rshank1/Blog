@@ -6,7 +6,7 @@
     "logo": "/images/TC Local Logo.png",
     "logo_white": "images/TC Local.png",
     "logo_width": "150",
-    "logo_height": "200",
+    "logo_height": "39",
     "logo_text": ""
   },
   "settings": {
@@ -22,7 +22,7 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "TC Local | Planning and Geography",
+    "footer_content": "",
     "copyright": "Theme by [Statichunt](https://statichunt.com/)"
   },
   "metadata": {
@@ -33,7 +33,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Welcome! This blog is my attempt to use the skills I've acquired on my professional journey to explore interesting topics in the Twin Cities metro area related to planning and geography. I will use GIS, statistical analysis, and research to tell stories about the urban fabric of a place I hold dear."},
+      "content": ""},
     "featured_posts": {
       "enable": false,
       "title": "Blog Categories",
