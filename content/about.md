@@ -1,6 +1,6 @@
 ---
 title: About Me
-image: /images/author.png
+image: /images/AboutPicture.jpeg
 description: "meta description"
 layout: about
 education:
