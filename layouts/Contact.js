@@ -41,7 +41,7 @@ const Contact = ({ data }) => {
             >
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="name">
-                  Full name
+                  Name
                   <small className="font-secondary text-sm text-primary">
                     *
                   </small>

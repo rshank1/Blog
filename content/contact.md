@@ -1,20 +1,20 @@
 ---
-title: "Let’s, Talk </br> About You"
+title: "Contact Me"
 description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+phone: "(612) 367-7515"
+mail: "tclocalplanning@gmail.com"
+location: "Minneapolis"
 form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content: +6123677515
+    link: tel:+6123677515
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: tclocalplanning@gmail.com
+    link: mailto:tclocalplanning@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: Minneapolis
 
 draft: false
 ---
